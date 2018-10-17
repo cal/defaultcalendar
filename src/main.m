@@ -1,6 +1,6 @@
 //
 //  main.m
-//  defaultbrowser
+//  defaultcalendar
 //
 
 #import <Foundation/Foundation.h>

@@ -1,4 +1,4 @@
-BIN ?= defaultbrowser
+BIN ?= defaultcalendar
 PREFIX ?= /usr/local
 BINDIR ?= $(PREFIX)/bin
 

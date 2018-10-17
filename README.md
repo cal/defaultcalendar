@@ -1,7 +1,7 @@
-defaultbrowser
+defaultcalendar
 ==============
 
-Command line tool for setting the default browser (HTTP handler) in macOS X.
+Command line tool for setting the default calendar (.ical handler) in macOS X.
 
 Install
 -------
@@ -21,13 +21,13 @@ make install
 Usage
 -----
 
-Set the default browser with, e.g.:
+Set the default calendar with, e.g.:
 
 ```
-defaultbrowser chrome
+defaultcalendar outlook
 ```
 
-Running `defaultbrowser` without arguments lists available HTTP handlers and shows the current setting.
+Running `defaultcalendar` without arguments lists available .ical handlers and shows the current setting.
 
 How does it work?
 -----------------
